@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ihNonNFQIm0DGCVUt2M/DgF620+S0QFqZPUW9PoNO+HA46W1U6Kx4a1AQUBUSdZ62uMM9XPkHBHEYrwaWDQlGA==",
+  "success": true,
+  "projectFilePath": "C:\\DEV\\CSharp\\Utilities\\RemoveDuplacateKISS\\RemoveDuplicateKISS\\RemoveDuplicateKISS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emel\\.nuget\\packages\\isexternalinit.system.runtime.compilerservices\\1.0.0\\isexternalinit.system.runtime.compilerservices.1.0.0.nupkg.sha512",
+    "C:\\Users\\emel\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\emel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\emel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\emel\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\emel\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\emel\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\emel\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512",
+    "C:\\Users\\emel\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.23\\microsoft.netcore.app.runtime.win-x86.6.0.23.nupkg.sha512",
+    "C:\\Users\\emel\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.23\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.23.nupkg.sha512",
+    "C:\\Users\\emel\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.23\\microsoft.aspnetcore.app.runtime.win-x86.6.0.23.nupkg.sha512",
+    "C:\\Users\\emel\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.23\\microsoft.netcore.app.crossgen2.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

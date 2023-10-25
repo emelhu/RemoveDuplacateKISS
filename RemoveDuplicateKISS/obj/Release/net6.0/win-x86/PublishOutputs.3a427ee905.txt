@@ -1,0 +1,4 @@
+C:\DEV\CSharp\Utilities\RemoveDuplacateKISS\RemoveDuplicateKISS\bin\Release\net6.0\publish\win-x86\RemoveDuplicateKISS.pdb
+C:\DEV\CSharp\Utilities\RemoveDuplacateKISS\RemoveDuplicateKISS\bin\Release\net6.0\publish\win-x86\CommandLineParams.pdb
+C:\DEV\CSharp\Utilities\RemoveDuplacateKISS\RemoveDuplicateKISS\bin\Release\net6.0\publish\win-x86\eMeL_CommonStandardLibrary.pdb
+C:\DEV\CSharp\Utilities\RemoveDuplacateKISS\RemoveDuplicateKISS\bin\Release\net6.0\publish\win-x86\RemoveDuplicateKISS.exe
